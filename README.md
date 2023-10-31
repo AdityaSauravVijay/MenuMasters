@@ -82,10 +82,8 @@ Tarck the calories consumed
 - Access the application by going to the route (localhost:3000/)
 *********************************************************************************************************************************
 Contributors -
-Nishith - 002745202
 Aditya Saurav Vijay - 002785945
-Sushmitha Prathap - 002774283
-Suprith Kambadahalli Prakash - 002784202
+
 
 *********************************************************************************************************************************
 
