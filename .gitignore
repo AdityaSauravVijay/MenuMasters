@@ -1,0 +1,34 @@
+# Ignore Mac system files
+.DS_store
+
+#Ignore log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
+
+# Ignore files related to API keys
+.env
+
+npm-debug.log
+
+#Ignore dist directory
+dist/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+
+# nyc test coverage
+.nyc_output
